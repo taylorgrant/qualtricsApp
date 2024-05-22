@@ -10,7 +10,7 @@ pacman::p_load(tidyverse, janitor, here, glue, GSPQualtricsR, shiny,
 
 # read in data for now #
 # out <- readRDS("~/Desktop/tmpdata/tmpdata.rds")
-sids <- fetch_sids()
+# sids <- fetch_sids()
 
 #   ____________________________________________________________________________
 #   SHINY APP                                                               ####
